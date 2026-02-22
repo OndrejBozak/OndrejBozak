@@ -2,7 +2,7 @@
 ## 👋 About Me
 
 - 🚀 **Currently focused on:** Building responsive web applications and improving my frontend architecture.
-- 🌱 **Learning Path:** I am currently mastering **TypeScript & Next.js** to take my **React** skills to the next level.
+- 🌱 **Learning Path:** I am currently learning **React** 
 - 🐍 **In my free time:** I experiment with **Python automation** and scripting to streamline repetitive tasks.
 - ⚡ **Tech Interests:** Passionate about clean code, modern CSS layouts, and efficient API integration.
 - 🔭 **Goal:** Transitioning from junior to mid-level developer by building scalable and well-documented projects.
